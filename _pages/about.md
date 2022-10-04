@@ -17,7 +17,7 @@ Currently, I am a [Doctoral Candidate (PhC)](https://geography.washington.edu/pe
 I recently completed a two-year [TADA-BSSR NIH](https://obssr.od.nih.gov/news-and-events/news/director-voice/obssr-launches-training-advanced-data-and-analytics-behavioral) [T32 Fellowship in Data Science and Demography at UW's Center for Studies in Demography and Ecology (CSDE)](https://csde.washington.edu/training/fellowship-funding/data-science-demography-population-health-training/). My faculty mentors were Dr. Almquist and [Dr. Jon Wakefield](http://faculty.washington.edu/jonno/) (Professor of Statistics and Biostatistics). I remain a [CSDE Trainee in Demographic Methods](https://csde.washington.edu/training/demographic-certificate/).
 
 
-I am the Managing Editor of the Population Dynamics Lab, a new and soon to be released publication venue and virtual lab experience for short quantitative, computational and methodological insights, as well as for developing and sharing tools for the field of demography, Edited by [Dr. Sara Curran](https://sites.uw.edu/scurran/) (Professor of Sociology, Director of CSDE, and Editor-in-Chief of [Demography](https://read.dukeupress.edu/demography)).
+I am the Managing Editor of the [Population Dynamics Lab](https://population-dynamics-lab.csde.washington.edu/), a new and soon to be released publication venue and virtual lab experience for short quantitative, computational and methodological insights, as well as for developing and sharing tools for the field of demography, Edited by [Dr. Sara Curran](https://sites.uw.edu/scurran/) (Professor of Sociology, Director of CSDE, and Editor-in-Chief of [Demography](https://read.dukeupress.edu/demography)).
 
 
 
