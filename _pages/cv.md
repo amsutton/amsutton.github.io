@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="{{ site.url }}{{ site.baseurl }}/files/2022_Sutton_A_CV.pdf" width="1000" height="1000" type="application/pdf"></object>
+
+
+<iframe src="https://docs.google.com/viewer?url=https://amsutton.github.io/files/2022_Sutton_A_CV.pdf &embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>

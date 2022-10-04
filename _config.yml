@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aja Sutton"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Aja Sutton"
 description              : &description "Professional Website"
