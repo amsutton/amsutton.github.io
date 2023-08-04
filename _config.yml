@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aja Sutton"
   avatar           : "ajasuttonportrait.jpg"
-  bio              : "Doctoral Candidate in Geography <br> at the University of Washington.<br><br> My name is pronounced /ˈeɪ.ʒə/. <br> My pronouns are she/her."
-  location         : "Seattle, WA"
+  bio              : "Postdoctoral Scholar<br>at Stanford University.<br><br> My name is pronounced /ˈeɪ.ʒə/. she/her."
+  location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?pli=1&authuser=1&user=K4MLQDwAAAAJ"
-  email            :  "amsutton@uw.edu"
+  email            :  "ajas@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
