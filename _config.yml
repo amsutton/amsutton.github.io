@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aja Sutton"
   avatar           : "ajasuttonportrait.jpg"
-  bio              : "Research Associate at Stanford University, & Postdoctoral Scholar at the Population Research Center, Portland State University"
+  bio              : "Postdoctoral Researcher"
   location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?pli=1&authuser=1&user=K4MLQDwAAAAJ"
-  email            :  "ajas@stanford.edu | ajas@pdx.edu"
+  email            :  "ajas@pdx.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
